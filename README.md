@@ -54,5 +54,5 @@ Akses pada browser
     localhost/[nama folder]
 
 ## Credits
-- [Ilham noor khatami](ilham.noor.khatami2@gmail.com)
+- [Ilham noor khatami](https://github.com/ilhamKhatami)
   
