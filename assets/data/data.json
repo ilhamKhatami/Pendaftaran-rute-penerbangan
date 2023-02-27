@@ -1,0 +1,26 @@
+[
+    {
+        "maskapai": "Air Asia",
+        "bandaraAsal": "Juanda (SUB)",
+        "bandaraTujuan": "Ngurah Rai (DPS)",
+        "hargaTiket": 540000,
+        "pajak": 120000,
+        "totalHargaTiket": 660000
+    },
+    {
+        "maskapai": "Garuda Indonesia",
+        "bandaraAsal": "Abdul Rachman Saleh (MLG)",
+        "bandaraTujuan": "Sultan Iskandarmuda (BTJ)",
+        "hargaTiket": 670000,
+        "pajak": 110000,
+        "totalHargaTiket": 780000
+    },
+    {
+        "maskapai": "Adam Air",
+        "bandaraAsal": "Soekarno-Hatta (CGK)",
+        "bandaraTujuan": "Hasanuddin (UPG)",
+        "hargaTiket": 540000,
+        "pajak": 120000,
+        "totalHargaTiket": 660000
+    }
+]

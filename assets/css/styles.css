@@ -1,0 +1,104 @@
+.form-input,
+.form-input input {
+  margin: 3px 0 11px;
+}
+
+.button {
+  border: unset;
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.301) 2.9px 2.9px 5.9px, rgba(207, 207, 207, 0.164) -2.9px -2.9px 5.9px;
+}
+
+.button:active {
+  box-shadow: rgba(0, 0, 0, 0.226) -2.2px -2.2px 5.9px, rgba(207, 207, 207, 0.082) 2.2px 2.2px 5.9px;
+  opacity: 60%;
+}
+
+.form-submit button {
+  padding: 5px 20px;
+  font-size: 1.2em;
+  margin-top: 5px;
+  color: #28364e;
+  background-color: #eeeeeeea;
+}
+
+.card-container {
+  width: 96%;
+  padding: 90px 30px 60px;
+  margin: 0 auto;
+  border-radius: 10px;
+  background-color: #eeeeeeea;
+  box-shadow: rgba(78, 78, 78, 0.349) 0px 99px 40px -27px inset, #ababab 0px 10px 8px -6px, #ffffff 0px 0px 10px 0px inset;
+}
+
+#home {
+  margin-bottom: -65px;
+  height: 115px;
+  background: #16213E;
+}
+
+.form-card {
+  background: #16213e;
+  width: 590px;
+  color: #fff;
+  padding: 30px 50px 15px;
+}
+
+.form-input input {
+  font-size: 0.9em;
+}
+
+.table-row {
+  margin-top: 80px;
+}
+
+.table-card {
+  background: #16213e;
+  color: #fff;
+  padding: 30px 50px 20px;
+  max-width: 1100px;
+  width: 78vw;
+  min-width: 720px;
+}
+
+.font-white {
+  color: rgb(255, 255, 255);
+}
+
+.judul-text {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.card-style {
+  border-radius: 12px;
+  box-shadow: rgba(97, 97, 97, 0.63) 0px 8px 18px -3px;
+}
+
+footer {
+  height: 120px;
+  padding: 40px 0;
+  font-size: 1.3em;
+}
+
+body {
+  background: #d8d8d8f5;
+}
+
+hr {
+  opacity: 0.44;
+}
+
+.garis {
+  width: 100%;
+  height: 2px;
+  color: #fff;
+  border-style: none;
+  opacity: 0.82;
+}
+
+img {
+  width: auto;
+  height: 100px;
+  opacity: 90%;
+}
