@@ -22,5 +22,13 @@
         "hargaTiket": 540000,
         "pajak": 120000,
         "totalHargaTiket": 660000
+    },
+    {
+        "maskapai": "Batik Air",
+        "bandaraAsal": "Husein Sastranegara (BDO)",
+        "bandaraTujuan": "Hasanuddin (UPG)",
+        "hargaTiket": 700000,
+        "pajak": 100000,
+        "totalHargaTiket": 800000
     }
 ]

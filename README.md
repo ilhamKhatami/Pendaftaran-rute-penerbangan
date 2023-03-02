@@ -10,6 +10,7 @@ Pendaftaran rute penerbangan adalah website yang dapat digunakan untuk membuat d
 ## Tech
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - standard markup language for documents designed to be displayed in a web browser
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - style sheet language used for desribing the presentation of a document written in a markup language.
+* [BOOTSTRAP](https://getbootstrap.com/) - Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development.
 * [PHP](https://www.php.net/) - popular general-purpose scripting language that is ecpecially suited to web development.
 * [VISUAL STUDIO CODE](https://code.visualstudio.com/) - a code editor redefined and optimized for building and debugging modern web and cloud applications.
 * [XAMPP](https://www.apachefriends.org/download.html) - an easy to install Apache distribution containing MariaDB, PHP, and Perl.
@@ -51,7 +52,7 @@ Start Apache pada XAMPP Control Panel
 
 Akses pada browser
 
-    localhost/[nama folder]
+    localhost/[nama folder]/index.php
 
 ## Credits
 - [Ilham noor khatami](https://github.com/ilhamKhatami)
